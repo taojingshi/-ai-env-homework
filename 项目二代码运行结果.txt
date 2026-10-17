@@ -1,0 +1,118 @@
+【压缩成功】图片：DelicateArch.ppm
+    原始文件大小：196623 字节
+    压缩后 JSON：1282264 字节
+    文件缩减率：-552.14 %
+
+【压缩成功】图片：differences.ppm
+    原始文件大小：196623 字节
+    压缩后 JSON：1365420 字节
+    文件缩减率：-594.44 %
+
+【压缩成功】图片：differences_small.ppm
+    原始文件大小：373 字节
+    压缩后 JSON：2673 字节
+    文件缩减率：-616.62 %
+
+【压缩成功】图片：GiantSteps.ppm
+    原始文件大小：663567 字节
+    压缩后 JSON：4476055 字节
+    文件缩减率：-574.54 %
+
+【压缩成功】图片：GrandPrismaticSpring.ppm
+    原始文件大小：480015 字节
+    压缩后 JSON：3162795 字节
+    文件缩减率：-558.90 %
+
+【压缩成功】图片：indices.ppm
+    原始文件大小：196623 字节
+    压缩后 JSON：1385510 字节
+    文件缩减率：-604.65 %
+
+【压缩成功】图片：longruns.ppm
+    原始文件大小：196623 字节
+    压缩后 JSON：16968 字节
+    文件缩减率：91.37 %
+
+【压缩成功】图片：ParkAvenue.ppm
+    原始文件大小：372615 字节
+    压缩后 JSON：2376776 字节
+    文件缩减率：-537.86 %
+
+【压缩成功】图片：pixels.ppm
+    原始文件大小：196623 字节
+    压缩后 JSON：1356838 字节
+    文件缩减率：-590.07 %
+
+【压缩成功】图片：pixels_small.ppm
+    原始文件大小：754 字节
+    压缩后 JSON：5056 字节
+    文件缩减率：-570.56 %
+
+【压缩成功】图片：runs_and_short_indices_small.ppm
+    原始文件大小：396 字节
+    压缩后 JSON：659 字节
+    文件缩减率：-66.41 %
+
+【压缩成功】图片：runs_long_small.ppm
+    原始文件大小：3085 字节
+    压缩后 JSON：684 字节
+    文件缩减率：77.83 %
+
+【压缩成功】图片：runs_short_small.ppm
+    原始文件大小：396 字节
+    压缩后 JSON：653 字节
+    文件缩减率：-64.90 %
+
+【压缩成功】图片：shortruns.ppm
+    原始文件大小：49166 字节
+    压缩后 JSON：32873 字节
+    文件缩减率：33.14 %
+
+【压缩成功】图片：SIGCSE2023.ppm
+    原始文件大小：967830 字节
+    压缩后 JSON：199037 字节
+    文件缩减率：79.43 %
+
+【压缩成功】图片：smallindices.ppm
+    原始文件大小：98319 字节
+    压缩后 JSON：573478 字节
+    文件缩减率：-483.28 %
+
+【压缩成功】图片：smallindices_small.ppm
+    原始文件大小：781 字节
+    压缩后 JSON：4568 字节
+    文件缩减率：-484.89 %
+
+【压缩成功】图片：tiny.ppm
+    原始文件大小：23 字节
+    压缩后 JSON：110 字节
+    文件缩减率：-378.26 %
+
+【压缩成功】图片：Toys.ppm
+    原始文件大小：360015 字节
+    压缩后 JSON：850856 字节
+    文件缩减率：-136.34 %
+
+===== 开始解压，待解压文件数量：19 =====
+
+【解压成功】DelicateArch.json -> DelicateArch.ppm
+【解压成功】differences.json -> differences.ppm
+【解压成功】differences_small.json -> differences_small.ppm
+【解压成功】GiantSteps.json -> GiantSteps.ppm
+【解压成功】GrandPrismaticSpring.json -> GrandPrismaticSpring.ppm
+【解压成功】indices.json -> indices.ppm
+【解压成功】longruns.json -> longruns.ppm
+【解压成功】ParkAvenue.json -> ParkAvenue.ppm
+【解压成功】pixels.json -> pixels.ppm
+【解压成功】pixels_small.json -> pixels_small.ppm
+【解压成功】runs_and_short_indices_small.json -> runs_and_short_indices_small.ppm
+【解压成功】runs_long_small.json -> runs_long_small.ppm
+【解压成功】runs_short_small.json -> runs_short_small.ppm
+【解压成功】shortruns.json -> shortruns.ppm
+【解压成功】SIGCSE2023.json -> SIGCSE2023.ppm
+【解压成功】smallindices.json -> smallindices.ppm
+【解压成功】smallindices_small.json -> smallindices_small.ppm
+【解压成功】tiny.json -> tiny.ppm
+【解压成功】Toys.json -> Toys.ppm
+
+Process finished with exit code 0
