@@ -1,0 +1,17 @@
+C:\Users\taojingshi\PycharmProjects\PythonProject\.venv\Scripts\python.exe C:\Users\taojingshi\PycharmProjects\PythonProject\Task3.py 
+运行设备: cpu
+100.0%
+100.0%
+100.0%
+100.0%
+===== MNIST手写数字识别 开始训练 =====
+Epoch  1 | 训练损失: 0.2771 | 测试准确率: 0.9616
+Epoch  2 | 训练损失: 0.1268 | 测试准确率: 0.9705
+Epoch  3 | 训练损失: 0.0980 | 测试准确率: 0.9786
+Epoch  4 | 训练损失: 0.0833 | 测试准确率: 0.9776
+Epoch  5 | 训练损失: 0.0725 | 测试准确率: 0.9778
+
+训练结束，耗时 74.74 秒
+【最终测试集准确率】：0.9778
+
+Process finished with exit code 0
